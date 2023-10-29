@@ -1,5 +1,8 @@
 # SSE-CRP
 ## Changelog
+### v0.05
+* Adjusted CC Crossbows critical damage to half of its base damage (FE01D801, FE01D8A6, FE039808, FE039809, FE03980A, FE03980C, FE03980D, FE03980F).
+
 ### v0.04
 * Forwarded USCCCP Fists of Randagulf tempering recipe changes (FE03681D).
 * Merged Her Hand keyword changes (Creation Club Rebalancing) & script changes (Ghosts of the Tribunal: Reduced Cut) (0500081B, 0500081D, 0500081E, 0500081F, 05000A4B, 05000B80, 05000CE4, 05000E6E).
