@@ -1,5 +1,8 @@
 # SSE-CRP
 ## Changelog
+### v0.06
+* Overrided blacksmiths ore items from Saints and Seducers - Merchants Sell New Items (0009BC31, 0009BC32).
+
 ### v0.05
 * Adjusted CC Crossbows critical damage to half of its base damage (FE01D801, FE01D8A6, FE039808, FE039809, FE03980A, FE03980C, FE03980D, FE03980F).
 
