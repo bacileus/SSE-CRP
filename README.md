@@ -1,5 +1,11 @@
 # SSE-CRP
 ## Changelog
+### v0.04
+* Forwarded USCCCP Fists of Randagulf tempering recipe changes (FE03681D).
+* Merged Her Hand keyword changes (Creation Club Rebalancing) & script changes (Ghosts of the Tribunal: Reduced Cut) (0500081B, 0500081D, 0500081E, 0500081F, 05000A4B, 05000B80, 05000CE4, 05000E6E).
+* Merged mask stats (Creation Club Rebalancing) & script changes (Ghosts of the Tribunal: Reduced Cut) (0500081F, 05000820, 05000821, 05000822).
+* Merged weapon stat changes (Creation Club Rebalancing) & script changes (Ghosts of the Tribunal: Reduced Cut) (0500083A, 05000C28, 05057384).
+
 ### v0.03
 * Reverted Creation Club Rebalancing Mentor's Ring effect (06000B29, 06000C02).
 * Merged Steel Soldier stats (Creation Club Rebalancing) & keywords (Creation Club Integration) (FE02583B, FE02583C, FE02583D, FE02583E).
@@ -22,6 +28,7 @@
 
 ### v0.02
 * Forwarded USCCCP Fists of Randagulf tempering recipe changes (FE03681D).
+
 ### v0.01
 * Forwarded USSEP Saints & Seducers critter fixes (0C086AE5, 0C086AE7, 0C086AE8, 0C086AEB, 0C086AEC, 0C086AED, 0C086AF2, 0C086AF5, 0C086AF7, 0C086AF9, 0C086B0A, 0C0BE6B1, 0C137F4D, 0C137F4E).
 * Forwarded Landscape & Water Fixes spiky grass fix (00026107).
